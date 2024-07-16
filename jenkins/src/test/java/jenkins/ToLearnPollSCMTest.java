@@ -8,7 +8,7 @@ public class ToLearnPollSCMTest
 	@Test
 	public void launch()
 	{
-		Reporter.log("POLL SCM SUCCESS");
+		Reporter.log("POLL SCM SUCCESS", true);
 	}
 
 }
